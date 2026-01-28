@@ -2918,4 +2918,4 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357$订阅源
 
 🕘️更新时间,#genre#
-2026-01-28 06:43:22,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-01-28 18:48:41,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
