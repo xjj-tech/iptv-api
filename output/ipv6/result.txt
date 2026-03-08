@@ -3021,4 +3021,4 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 射雕英雄传,https://live.ottiptv.cc/huya/23824164$订阅源
 
 🕘️更新时间,#genre#
-2026-03-08 18:42:00,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-03-09 06:39:47,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
